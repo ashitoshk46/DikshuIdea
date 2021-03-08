@@ -1,7 +1,7 @@
 {
   "name": "dikshuidea",
   "version": "1.0.0",
-  "description": "Store data on server and get QR Code to fetch data again",
+  "description": "Store data on server and get QR Code to access data from server.",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
